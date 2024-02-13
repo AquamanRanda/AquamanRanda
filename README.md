@@ -12,11 +12,9 @@
 <p align="center">
   Hi, I'm Naveen G, an avid Problem Solver and Web Developer.
   <br>
-  🔬 I'm currently doing my Undergraduate in Computer Science and Engineering.
+  🔬 I'm currently working as a product developement lead at TheEsportsClub and Gossip.gg
   <br>
   💻 I love drafting new ideas and doing my own projects in my free time.
-  <br>
-  📚 I’m currently diving deep into Micro-Frontend Architecture.
   <br>
   ⚡ Fun fact: I love to play video games. Mostly FPS games. 
   <br>
